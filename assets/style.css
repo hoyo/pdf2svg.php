@@ -1,0 +1,28 @@
+body {
+  background: #fff;
+  margin: 0;
+}
+
+form {
+  margin: 40px 20px;
+}
+form input {
+  border: 1px solid #ccc;
+  border-radius: 0;
+  display: block;
+  font-size: 18px;
+  height: 30px;
+  line-height: 30px;
+  padding: 5px 0;
+  margin: 20px 0;
+  width: 100%;
+  -webkit-appearance: none;
+}
+form input[type="submit"] {
+  background: #eee;
+  height: 40px;
+}
+
+img {
+  width: 100%;
+}
